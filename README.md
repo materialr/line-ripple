@@ -1,2 +1,3 @@
-# line-ripple
-line-ripple foundation implementation for React
+# @materialr/line-ripple
+
+This package is not maintained and should not be used or trusted.
